@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Junior Customer Support - Remote",
+    "company": "Safaricom PLC",
+    "location": "Remote - Kenya",
+    "type": "Demo - Safaricom Partner",
+    "skills": ["customer support", "communication", "English"],
+    "description": "Sample data showing how we will display real verified opportunities.",
+    "source": "Safaricom Careers",
+    "sourceLink": "https://www.safaricom.co.ke/careers",
+    "eligibility": "Open to applicants in Kenya - check official posting",
+    "lastChecked": "2026-05-10"
+  },
+  {
+    "title": "Junior Research Assistant - Data Entry",
+    "company": "Demo NGO",
+    "location": "Remote",
+    "type": "Demo - Research",
+    "skills": ["research", "data entry", "typing"],
+    "description": "Another sample opportunity to test your search filter.",
+    "source": "Demo Source",
+    "sourceLink": "https://example.com",
+    "eligibility": "Sample - not real",
+    "lastChecked": "2026-05-10"
+  }
+]
