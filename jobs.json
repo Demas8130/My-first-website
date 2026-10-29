@@ -1,26 +1,57 @@
 [
   {
-    "title": "Junior Customer Support - Remote",
+    "title": "Safaricom Careers - Official",
     "company": "Safaricom PLC",
-    "location": "Remote - Kenya",
-    "type": "Demo - Safaricom Partner",
-    "skills": ["customer support", "communication", "English"],
-    "description": "Sample data showing how we will display real verified opportunities.",
-    "source": "Safaricom Careers",
-    "sourceLink": "https://www.safaricom.co.ke/careers",
-    "eligibility": "Open to applicants in Kenya - check official posting",
-    "lastChecked": "2026-05-10"
+    "location": "Nairobi / Kenya",
+    "tags": ["official", "safaricom", "kenya"],
+    "description": "All real Safaricom jobs. Apply ONLY on official portal. No fees.",
+    "source": "Safaricom",
+    "sourceUrl": "https://careers.safaricom.co.ke",
+    "eligibility": "Kenya",
+    "lastChecked": "2026-10-29"
   },
   {
-    "title": "Junior Research Assistant - Data Entry",
-    "company": "Demo NGO",
-    "location": "Remote",
-    "type": "Demo - Research",
-    "skills": ["research", "data entry", "typing"],
-    "description": "Another sample opportunity to test your search filter.",
-    "source": "Demo Source",
-    "sourceLink": "https://example.com",
-    "eligibility": "Sample - not real",
-    "lastChecked": "2026-05-10"
+    "title": "KCB Group Careers - Official",
+    "company": "KCB Bank",
+    "location": "Kenya",
+    "tags": ["banking", "official"],
+    "description": "Verified KCB vacancies. Check official site daily.",
+    "source": "KCB Group",
+    "sourceUrl": "https://kcbgroup.com/careers",
+    "eligibility": "Kenya",
+    "lastChecked": "2026-10-29"
+  },
+  {
+    "title": "Equity Bank Careers - Official",
+    "company": "Equity Bank",
+    "location": "Kenya",
+    "tags": ["banking", "official"],
+    "description": "Official Equity Bank jobs portal.",
+    "source": "Equity Bank",
+    "sourceUrl": "https://equitybank.co.ke/careers",
+    "eligibility": "Kenya",
+    "lastChecked": "2026-10-29"
+  },
+  {
+    "title": "CloudFactory - Remote AI Work",
+    "company": "CloudFactory Kenya",
+    "location": "Remote - Kenya",
+    "tags": ["remote", "data", "rongai"],
+    "description": "Legit remote work for Kenyan youth. Apply via official site.",
+    "source": "CloudFactory",
+    "sourceUrl": "https://www.cloudfactory.com/careers",
+    "eligibility": "Remote Kenya",
+    "lastChecked": "2026-10-29"
+  },
+  {
+    "title": "Upwork - Start Freelancing",
+    "company": "Upwork",
+    "location": "Remote Worldwide",
+    "tags": ["freelance", "remote"],
+    "description": "Official freelance marketplace. Free profile, escrow protection.",
+    "source": "Upwork",
+    "sourceUrl": "https://www.upwork.com",
+    "eligibility": "Open to Kenya",
+    "lastChecked": "2026-10-29"
   }
 ]
